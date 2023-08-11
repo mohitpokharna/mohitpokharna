@@ -5,16 +5,9 @@
 - 💬 Ask me about Symphony of Numbers, Logic Puzzles, Programming Harmonies, Musical Algorithms, and the Melody of Continuous Learning!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohitpokharna/).
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats-mohitpokharna.vercel.app/api?username=mohitpokharna&count_private=true&hide_title=true&hide=stars&theme=radical&rank_icon=percentile" />
-</p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitpokharna&layout=compact&count_private=true&hide_title=true&hide=stars&theme=radical" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=mohitpokharna&theme=radical" alt="mohitpokharna"/>
+  <img align="center" src="https://streak-stats.demolab.com/?user=mohitpokharna&mode=weekly&ring=silver&fire=gold&theme=radical" alt="mohitpokharna"/>
 </p>
 
 <!--
