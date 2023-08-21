@@ -3,12 +3,7 @@
 - 🔭 Software Engineer at [Mercari, Inc](https://jp.mercari.com/) solving search and pricing problems.
 - 📚 Mathematics and Computing Bachelor's and Master's from IIT Kharagpur.
 - 💬 Ask me about Symphony of Numbers, Logic Puzzles, Programming Harmonies, Musical Algorithms, and the Melody of Continuous Learning!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mohitpokharna/).
-
-
-<p align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=mohitpokharna&mode=weekly&ring=silver&fire=gold&theme=radical" alt="mohitpokharna"/>
-</p>
+- 📫 [LinkedIn](https://www.linkedin.com/in/mohitpokharna/).
 
 <!--
 **mohitpokharna/mohitpokharna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
